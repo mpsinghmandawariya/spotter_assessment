@@ -1,0 +1,13 @@
+metric,value
+rows,12000.0
+columns,2.0
+missing_predictions,0.0
+infinite_predictions,0.0
+negative_predictions,0.0
+duplicate_load_ids,0.0
+minimum_prediction,196.33
+maximum_prediction,6992.86
+mean_prediction,2361.0255641666668
+median_prediction,2043.815
+p95_prediction,4922.418499999999
+p99_prediction,5836.0919
