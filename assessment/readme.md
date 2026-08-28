@@ -1,11 +1,5 @@
 # 🚛 Freight Rate Prediction — End-to-End Machine Learning System
 
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-1B9E77)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-Pipeline-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Final%20Submission-success)
-
 An end-to-end machine learning pipeline that predicts freight `posted_rate` from shipment, route, geographic, equipment, market, quote-signal, and temporal information. Built for the Spotter Machine Learning Engineer assessment.
 
 ## 👤 Author
